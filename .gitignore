@@ -1,0 +1,4 @@
+#忽略javascript.css这个文件
+javascript.css
+#忽略text目录下的所有文件
+test/
