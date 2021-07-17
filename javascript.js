@@ -12,3 +12,4 @@ function simpleTag(strings, aValExpression, bVaExpression, sumExpreeion){
 
 let untaggedResult = `${a} +${b} = ${a + b}`;
 let taggedResult = simpleTag`${a} +${b} = ${a + b}`;
+console.log(untaggedResult)
